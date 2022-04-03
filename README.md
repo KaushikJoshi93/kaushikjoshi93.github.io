@@ -1,5 +1,5 @@
-# JavaScript Projects
-        In this repo I have added many interesting projects which are made using vanilla javascript😊😊😊😊
+#  Projects
+        In this repo I have added many interesting project which I think you will love it.😊😊😊😊
 
-        I have included some index files which is only for website purpose which I have hosted on github.
-        You can see my website of this repo by following this link ➡️ https://kaushikjoshi93.github.io/JavaScript-Projects/
+        The index.html file present in this repo is the website homepage file which will server my rest of the projects.
+        You can see my website by follwing this link ➡️➡️ https://kaushikjoshi93.github.io
